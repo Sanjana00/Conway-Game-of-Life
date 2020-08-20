@@ -10,4 +10,4 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 Run the file to generate states. On each prompt, type 'y' to generate the next state, 'n' to terminate program.
 
 # About the Code
-gol.py is the memory efficient version of gameoflife.py
+Conway's game of life has been coded on python. gol.py is the memory efficient version of gameoflife.py
